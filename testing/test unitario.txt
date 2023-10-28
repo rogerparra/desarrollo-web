@@ -1,2 +1,5 @@
 Caso de pruena No.1
 Test Unitario creado por Desarrollo
+Caso de pruena No. 2
+Nuevo vaso de prueba No. 3
+Resultado obtenido: Ok
